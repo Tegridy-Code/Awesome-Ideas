@@ -1,0 +1,5 @@
+Universal Cross-Platform Copy-Paste function in all computer mice :)
+
+Super easy to do via file-cache hack (workaround/routing).
+
+If done like that, many new cool copy-paste manupulations become possible
