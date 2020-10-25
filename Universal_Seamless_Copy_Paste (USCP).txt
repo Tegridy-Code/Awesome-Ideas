@@ -1,6 +1,6 @@
 Universal Cross-Platform Copy-Paste function in all computer mice :)
 
-aka Swap Cache File on the computer mouse.
+aka Swap Cache File/file-dump/swap-file on the computer mouse.
 
 Super easy to do via file-cache hack (workaround/routing).
 
